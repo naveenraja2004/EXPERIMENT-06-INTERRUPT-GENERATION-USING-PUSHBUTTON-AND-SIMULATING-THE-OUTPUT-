@@ -89,7 +89,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
   
 
 ## STM 32 CUBE PROGRAM :
-```
+~~~
 #include "main.h"
 #include"stdio.h"
 
@@ -196,7 +196,8 @@ void Error_Handler(void)
   while (1)
   {
   }
-}```
+}
+~~~
 
 
 
@@ -213,12 +214,7 @@ void Error_Handler(void)
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
-!
-
-![Uploading WhatsApp Image 2023-05-26 at 14.47.23.jpg…]()
-
-
-
-
+ 
+"C:\Users\SEC\Documents\micro exp6 output.jpg"
 ## Result :
 Interfacing a push button and interrupt genrateion is simulated using proteus 
