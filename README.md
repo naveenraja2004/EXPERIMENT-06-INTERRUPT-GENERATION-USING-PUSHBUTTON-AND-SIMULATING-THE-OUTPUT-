@@ -215,6 +215,7 @@ void Error_Handler(void)
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
  
-"C:\Users\SEC\Documents\micro exp6 output.jpg"
+![Uploading micro exp6 output.jpg…]()
+
 ## Result :
 Interfacing a push button and interrupt genrateion is simulated using proteus 
